@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Kedasi Parfum
+# Kedasih Parfum
 
-Aplikasi Kedasi Parfum adalah project UAS untuk matakuliah Pemrograman Berbasis Website Lanjutan. Aplikasi ini dibangun menggunakan Laravel 12 dan menerapkan konsep manajemen data produk, kategori, transaksi, serta fitur autentikasi pengguna.
+Aplikasi Kedasih Parfum adalah project UAS untuk matakuliah Pemrograman Berbasis Website Lanjutan. Aplikasi ini dibangun menggunakan Laravel 12 dan menerapkan konsep manajemen data produk, kategori, transaksi, serta fitur autentikasi pengguna.
 
 ## Fitur Utama
 - Manajemen produk parfum (CRUD)
